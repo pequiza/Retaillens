@@ -397,7 +397,9 @@
                     </div>
                 </div>
                 <div class="hero-image fade-in-up">
-                    <img src="https://placehold.co/500x400/5AA8C9/FFFFFF?text=Retail+Analytics" alt="Retail Analytics Dashboard">
+                    <img src="RetailLens.png"
+     alt="RetailLens logo"
+     style="width:100%;max-width:420px;height:auto;filter:drop-shadow(0 20px 60px rgba(0,0,0,.25))">
                 </div>
             </div>
         </div>
